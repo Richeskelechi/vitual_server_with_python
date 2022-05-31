@@ -27,3 +27,15 @@
 ##### Run .\Activate.ps1
 
 # 5. Now the virtual server is activated. you can go ahead with your code.
+
+# 6. Now lets Run our Django Application.
+
+##### cd into the Riches_Ohanu folder
+
+##### Run py manage.py runserver
+
+##### Your Django Application will be Running on localhost
+
+##### Starting development server at http://127.0.0.1:8000/
+
+##### You can click on your Link above to see your server Running.
